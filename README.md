@@ -1,5 +1,5 @@
 # Chatsum
-Summarize IM daily chat content, not to miss any important information, and improve productivity.
+Take Chat as the entry point, to enable LLM to the whole process of daily Workflow.
 
 ## 关于`data`目录下多人多轮对话Summary数据说明
 1. 主要基于[NaturalConv](https://arxiv.org/abs/2103.02548)数据+GPT生成
